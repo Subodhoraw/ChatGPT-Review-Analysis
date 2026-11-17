@@ -1,0 +1,12 @@
+# Local data files (do not commit raw review data without permission)
+*.csv
+data/*.csv
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
